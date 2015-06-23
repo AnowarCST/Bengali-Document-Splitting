@@ -1,5 +1,5 @@
 # Bengali-Document-Splitting
-You can split bengali text documen. There may have quotes in between sentences in text.
+You can split bengali text document. There may have quotes in between sentences in text.
 
 It will segment document to paragraph and paragraph to sentences.
 
