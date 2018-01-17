@@ -8,3 +8,5 @@ It will segment document to paragraph and paragraph to sentences.
 Thanks
 Md. Mazharul Haque
 mazharul_13@yahoo.com
+
+[Demo Link](https://bangla-doc-splitting.herokuapp.com/)
